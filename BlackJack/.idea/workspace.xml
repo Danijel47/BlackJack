@@ -24,6 +24,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/BlackJack" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -67,7 +71,7 @@
       <workItem from="1563989415681" duration="6170000" />
       <workItem from="1564082797215" duration="9988000" />
       <workItem from="1564093644399" duration="2179000" />
-      <workItem from="1564416556661" duration="1283000" />
+      <workItem from="1564416556661" duration="2819000" />
     </task>
     <servers />
   </component>
