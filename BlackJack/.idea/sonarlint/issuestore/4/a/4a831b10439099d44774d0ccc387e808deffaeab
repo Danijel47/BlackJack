@@ -1,0 +1,19 @@
+
+bsquid:S1854"ERemove this useless assignment to local variable "sumOfDealersCards".(ò›p8ºû×ÓÂ-
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¡»·øÿÿÿÿ8¥¡ÓÂ-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÿÉ¶úÿÿÿÿ8ôÕŞÓÂ-
+Nsquid:S1481"0Remove this unused "scannerStay" local variable.(Ã»Úà8œÉŒÔÂ-
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Ñ§Ñ»8Å¸ÄÓÂ-
+U
+squid:S106""9Replace this use of System.out or System.err by a logger.(°•Ş8¸±İÓÂ-
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¤¯ùÿÿÿÿ8†‰äÓÂ-
+Msquid:S00108(")Either remove or fill this block of code.(İ°›ûÿÿÿÿ8õªœÔÂ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜÑ©€8¨¯ˆÓÂ-
+Ssquid:S1481"6Remove this unused "sumOfDealersCards" local variable.(ò›p8ºû×ÓÂ-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(çüŸûÿÿÿÿ8†‰äÓÂ-
